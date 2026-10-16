@@ -172,8 +172,10 @@ recorded only; there is no cross-posting.
 
 ## Shared Link (2026-10-16)
 
-Published at https://claude.ai/artifact/7VXfAoLPAW4uWEn1V8rcNx (private until
-the PM shares it).
+The prototype is named **Sell the Pile** (PM's choice). Public link:
+https://iremleyla.github.io/sell-the-pile/ (repository `IremLeyla/sell-the-pile`,
+prototype files only). Also published at
+https://claude.ai/artifact/7VXfAoLPAW4uWEn1V8rcNx.
 
 - The shared link has **no facilitator**: the demo photo is shown as
   "recognised"; real photos get blank titles that the tester fills in.

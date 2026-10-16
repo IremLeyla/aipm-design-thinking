@@ -23,4 +23,5 @@
 | Multi-select platforms and item recognition | Multi-select; Wizard of Oz recognition (Claude's recommendation) | | Real AI recognition (needs API key and server); colour-only detection | PM decision on 2026-10-16 |
 | First test with P1 (family member) | Recorded in test-notes.md as opinions, with relationship bias | | | Too dark for real photos; physical part untested |
 | Assess readiness and publish a shareable link | Prototype judged test-ready; shared mode without facilitator; link published | | Adding more features before the real test | Claude recommended testing over building; PM asked for a link |
+| Publish without "claude" in the link; push the workshop repo | New public repo with prototype files only, on GitHub Pages; app renamed "Sell the Pile" | Personal details made vaguer before pushing (family member, major life change) | Pushing the personal version; putting research notes in the public prototype repo | PM chose option 2 and the name on 2026-10-16 |
 
